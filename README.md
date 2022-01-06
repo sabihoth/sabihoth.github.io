@@ -1,2 +1,6 @@
 # sabihoth.github.io
-This is my Portfolio Website
+Hello!
+
+My name is Sebastian Hoth. I am an Electrical Engineering student at NCSU.
+
+
